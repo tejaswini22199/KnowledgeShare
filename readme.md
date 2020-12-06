@@ -15,4 +15,4 @@ CSS
 * https://guides.github.com/
 * HTML CSS Java Script-Youtube or Google
 ### For doubts and Communication use discord
-[Link](https://discord.gg/Tjd96DDK)
+[Link](https://discord.gg/TKz4ZqpDEZ)
