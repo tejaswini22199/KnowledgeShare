@@ -1,0 +1,23 @@
+html{
+  background: #393e46;
+}
+body{
+  margin: 0 5vw 0 5vw;
+  padding:2% 3% 12% 3%;
+  background: white;
+  border-left: 1.5vw solid #00adb5;
+  border-right:  1.5vw solid #00adb5;
+}
+.btn{
+  margin-top: 30px;
+  background: #222831 ;
+  color: white;
+}
+.btn:hover{
+  background: #00adb5;
+  color: white;
+}
+.btn:focus{
+  background: #00adb5;
+  color: white;
+}
