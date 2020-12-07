@@ -46,4 +46,8 @@ CSS
 
 * Now using UI, create a pull request and add issue no it solves in the description.
 
+* To be updated with main branch commits you need to create a  upstream
 
+> git remote add upstream https://github.com/tejaswini22199/KnowledgeShare.git
+
+> git pull upstream
