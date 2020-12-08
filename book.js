@@ -1,11 +1,12 @@
 //Book class
 class Book
 {
-   constructor(title,author,resource)
+   constructor(title,author,resource,date)
    {
     this.title=title;
     this.author=author;
     this.resource=resource;
+	this.date=date;
    }
 }
 //Local Storage
@@ -47,6 +48,7 @@ class UI
             <td>${book.title}</td>
             <td>${book.author}</td>
             <td>${book.resource}</td>
+			<td>${book.date}</td>
            `;
        list.appendChild(row);
     }
@@ -55,6 +57,7 @@ class UI
         document.querySelector('#title').value='';
         document.querySelector('#author').value='';
         document.querySelector('#resource').value='';
+		document.querySelector('#date').value='';
     }
     static alertMsg(message,name){
         const div=document.createElement('div');
@@ -74,11 +77,12 @@ document.querySelector('#book-form').addEventListener('submit', (e)=>
     const title=document.querySelector('#title').value;
     const author=document.querySelector('#author').value;
     const isbn=document.querySelector('#resource').value;
-    if(title==='' || author==='' || resource===''){
+	const date=document.querySelector('#date').value;
+    if(title==='' || author==='' || resource===''||date===''){
     UI.alertMsg('Please fill all the fields','danger');
     }
     else{
-    const book=new Book(title,author,isbn);
+    const book=new Book(title,author,isbn,date);
     bookStore.addBook(book);
     UI.addBooktoList(book);
     UI.alertMsg('Book added','success');
