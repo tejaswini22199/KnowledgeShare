@@ -5,7 +5,12 @@
 ![Maintenance](https://img.shields.io/maintenance/yes/2020)
 *   ![GitHub issues](https://img.shields.io/github/issues-raw/tejaswini22199/KnowledgeShare)      ![GitHub issues](https://img.shields.io/github/issues-closed/tejaswini22199/KnowledgeShare)
 [![GitHub forks](https://img.shields.io/github/forks/tejaswini22199/KnowledgeShare)](https://github.com/tejaswini22199/KnowledgeShare/network)  [![GitHub stars](https://img.shields.io/github/stars/tejaswini22199/KnowledgeShare)](https://github.com/tejaswini22199/KnowledgeShare/stargazers)
+## Open Source Contests
 
+### KHARAGPUR WINTER OF CODE (KWOC'20)
+<div >
+<img src="https://kwoc.kossiitkgp.org/static/media/circle.33e6ce0d.svg" alt="kwoc20" height="300" width="300"/>
+  </div>
  
 ### Languages used
 HTML
