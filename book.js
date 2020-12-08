@@ -91,3 +91,33 @@ document.querySelector('#book-form').addEventListener('submit', (e)=>
     
 });
 document.querySelector()
+
+// for clearing the list
+function update() {
+    if (localStorage.getItem('itemJson') === null) {
+        itemJsonArray = [];
+        localStorage.setItem('itemJson', JSON.stringify(itemJsonArray));
+    } else {
+        itemJsonArrayStr = localStorage.getItem('itemJson');
+        itemJsonArray = JSON.parse(itemJsonArrayStr);
+    }
+    let tableBody = document.getElementById('resource-list');
+    let str = "";
+    itemJsonArray.forEach((element, index) => {
+        str += `
+                <tr>
+                    <td>${element[0]}</td>
+                    <td>${element[1]}</td>
+                    <td><button class="btn btn-primary btn-sm" onclick="deleted(${index})">Delete</button></td>
+                </tr>`;
+
+    });
+    tableBody.innerHTML = str;
+}
+
+function clearlist() {
+    alert("Do you really want to clear all items?");
+    console.log("clearing the storage");
+    localStorage.clear();
+    update();
+}
