@@ -20,7 +20,10 @@ HTML
 JS
 CSS
 ### 
-![display](landing_page.png)
+![Screenshot (685)](https://user-images.githubusercontent.com/63748249/101676584-5cf9d080-3a81-11eb-9218-6128fe981037.png)
+<br></br>
+<br></br>
+![Screenshot (686)](https://user-images.githubusercontent.com/63748249/101676317-055b6500-3a81-11eb-9e16-2df683628ef1.png)
 
 #### This is a beginner friendly project
 
