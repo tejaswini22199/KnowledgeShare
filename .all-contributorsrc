@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "tejaswini22199",
+      "name": "Tejaswini Vakkalagaddi",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/43006347?v=4",
+      "profile": "https://www.linkedin.com/in/tejaswini22199",
+      "contributions": [
+        "Maintainence","code"
+      ]
+    },
+   ]
+  "contributorsPerLine": 6,
+  "projectName": "KnowledgeShare",
+  "projectOwner": "Tejaswini",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
