@@ -9,16 +9,17 @@ body{
   border-right:  1.5vw solid #00adb5;
 }
 .btn{
-  margin-top: 30px;
-  background: #222831 ;
+  margin-top:10px;
   color: white;
+  display: block;
+  margin:15px auto;
 }
 .btn:hover{
-  background: #00adb5;
+  background: #f005f8;
   color: white;
 }
 .btn:focus{
-  background: #00adb5;
+  background: #8f04ec;
   color: white;
 }
 .form-group{
@@ -78,4 +79,9 @@ body{
 .form-group input:focus + .label-name::after,
 .form-group input:not(:placeholder-shown) + .label-name::after{
   transform: translateX(0%);
+}
+
+#hidden
+{
+  display: none;
 }
