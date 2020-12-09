@@ -1,81 +1,88 @@
-html{
+html {
   background: #393e46;
 }
-body{
+body {
   margin: 0 5vw 0 5vw;
-  padding:2% 3% 12% 3%;
+  padding: 2% 3% 12% 3%;
   background: white;
   border-left: 1.5vw solid #00adb5;
-  border-right:  1.5vw solid #00adb5;
+  border-right: 1.5vw solid #00adb5;
 }
-.btn{
+.btn {
   margin-top: 30px;
-  background: #222831 ;
+  background: #222831;
   color: white;
 }
-.btn:hover{
+.btn:hover {
   background: #00adb5;
   color: white;
 }
-.btn:focus{
+.btn:focus {
   background: #00adb5;
   color: white;
 }
-.form-group{
-  position:relative;
+.form-group {
+  position: relative;
   overflow: hidden;
 }
-.form-group input{
+.form-group input {
   padding: 25px 0 5px 0;
-  height:100%;
+  height: 100%;
   width: 100%;
-  border : none;
+  border: none;
 }
-.form-control:focus{
+.form-control:focus {
   border: none;
   box-shadow: none;
 }
-.form-group label{
+.form-group label {
   position: absolute;
-  padding:0 0;
-  bottom:0;
-  left:0;
+  padding: 0 0;
+  bottom: 0;
+  left: 0;
   margin-bottom: 0;
   width: 100%;
-  height:100%;
+  height: 100%;
   pointer-events: none;
   border-bottom: 1px solid black;
-
 }
-.form-group label::after{
-  content:"";
+.form-group label::after {
+  content: "";
   position: absolute;
   margin-bottom: 0;
   height: 100%;
-  left:0;
-  bottom:-1px;
-  width:100%;
-  border-bottom:4px solid #5fa8d3;
+  left: 0;
+  bottom: -1px;
+  width: 100%;
+  border-bottom: 4px solid #5fa8d3;
   transform: translateX(-101%);
   transition: all 0.4s ease;
 }
-.content-name{
+.content-name {
   position: absolute;
   bottom: 0px;
   left: 0;
   transition: all 0.3s ease;
 }
-.form-group input:focus + .label-name .content-name{
-  transform:translateY(-100%);
+.form-group input:focus + .label-name .content-name {
+  transform: translateY(-100%);
   font-size: 16px;
   color: #5fa8d3;
 }
-.form-group input:not(:placeholder-shown) + .label-name .content-name{
-   transform:translateY(-100%);
-   font-size: 16px;
-   color: #5fa8d3;
+.form-group input:not(:placeholder-shown) + .label-name .content-name {
+  transform: translateY(-100%);
+  font-size: 16px;
+  color: #5fa8d3;
 }
 .form-group input:focus + .label-name::after,
-.form-group input:not(:placeholder-shown) + .label-name::after{
+.form-group input:not(:placeholder-shown) + .label-name::after {
   transform: translateX(0%);
+}
+td i:hover {
+  color: red;
+  cursor: pointer;
+}
+.list:hover {
+  background-color: rgba(255, 255, 29, 0.972);
+  border-bottom: 2px black solid;
 }

@@ -31,6 +31,19 @@ class bookStore
        console.log(books);
        localStorage.setItem('books',JSON.stringify(books));
    }
+   static clearBook()
+   {   let books=bookStore.getBooks();
+          books=[];
+      localStorage.setItem('books',JSON.stringify(books));
+      
+     let n=document.querySelectorAll('tr').length;
+      let i;
+   for(i=1;i<n;i++)
+   {
+       document.querySelectorAll('tr')[1].remove();
+   }
+
+   }
 }
 class UI
 {
@@ -48,7 +61,8 @@ class UI
             <td>${book.title}</td>
             <td>${book.author}</td>
             <td>${book.resource}</td>
-			<td>${book.date}</td>
+            <td>${book.date}</td>
+            <td><i class="far fa-trash-alt"></i></td>
            `;
        list.appendChild(row);
     }
@@ -79,15 +93,71 @@ document.querySelector('#book-form').addEventListener('submit', (e)=>
     const isbn=document.querySelector('#resource').value;
 	const date=document.querySelector('#date').value;
     if(title==='' || author==='' || resource===''||date===''){
-    UI.alertMsg('Please fill all the fields','danger');
-    }
+     UI.alertMsg('Please fill all the fields','danger');
+     }
     else{
     const book=new Book(title,author,isbn,date);
     bookStore.addBook(book);
     UI.addBooktoList(book);
     UI.alertMsg('Book added','success');
     UI.clearform();
+    additional();
     }
-    
+
 });
-document.querySelector()
+let deletearr =[];
+additional();
+
+function deletelement(){
+    let books;
+    books=bookStore.getBooks();
+      
+    
+       let tr=document.querySelectorAll('tr');
+       tr=Array.from(tr);
+    
+       books.splice(deletearr.indexOf(this),1);
+       
+
+    localStorage.setItem('books',JSON.stringify(books));
+    
+     tr[deletearr.indexOf(this)+1].remove();
+     additional();
+
+ }
+
+
+ function additional ()
+ {
+    let dlist=document.querySelectorAll('tr');
+    let arr= Array.from(dlist);
+    arr.shift();
+    
+  
+
+     arr.forEach((element,i) => {
+          element.addEventListener("mouseover", hover);
+          deletearr[i]=element.querySelectorAll('td')[4];
+
+      });
+    
+      deletearr.forEach(function(element){
+        element.addEventListener("click", deletelement);
+        
+    
+    });
+  
+    
+      function hover(e){
+          e.preventDefault();
+          
+          this.className='list';
+      }
+    
+ }
+
+function clearlist() {
+    bookStore.clearBook();
+    additional();
+
+}
