@@ -1,6 +1,10 @@
 ### To be a Good Web Developer, all you need is good resources for Web Development. So, Following are some good resources that you should consider for Web Development-
 
+
+
 #### Blogs:
+
+
 
 1. https://www.theblogstarter.com/html-for-beginners/
 2. https://cssauthor.com/
@@ -14,6 +18,8 @@
 10. https://onextrapixel.com/
 
 #### Practice Sites:
+
+
 
 1. https://www.freecodecamp.org/ 
 2. https://www.udemy.com/courses/development/web-development/
