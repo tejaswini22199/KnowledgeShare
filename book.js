@@ -9,6 +9,15 @@ class Book
 	this.date=date;
    }
 }
+function GoToResources()
+{
+    console.log("Just clicked");
+    location.href="./resources.html";
+}
+function GoBack()
+{
+    location.href="./book.html";
+}
 //Local Storage
 class bookStore
 {

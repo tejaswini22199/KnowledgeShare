@@ -38,29 +38,26 @@
               <span class="content-name">Date</span>
               </label>
             </div>
-
-              <button class="btn btn-primary btn-block" >Add </button>
-		  
+              <button class="btn btn-primary btn-block" type="submit" >Add </button>
           </form>
-          <button class="btn btn-primary btn-block" onclick="clearlist()" >Clear List </button>
-           
-          <table class="table table-stripped mt-5">
+          <button class="btn btn-success ChangeButton" onclick="GoToResources()">Click me to see Resources you have got</button>
+          <table class="table table-stripped mt-5" id="hidden">
             <thead>
             <tr>
               <th>Title</th>
               <th>Author</th>
-
+    
               <th>Links</th>
-			  <th>Date</th>
+              <th>Date</th>
               <th></th>
             </tr>
             </thead>
-
+    
             <tbody id="resource-list">
-
+    
             </tbody>
           </table>
- </div>
+      
       <script src="book.js"></script>
 </body>
 
