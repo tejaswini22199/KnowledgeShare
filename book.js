@@ -125,8 +125,10 @@ function update() {
 }
 
 function clearlist() {
-    alert("Do you really want to clear all items?");
+   const x= confirm("Do you really want to clear all items?"); 
+    if(x){
     console.log("clearing the storage");
     localStorage.clear();
     update();
+    }
 }
