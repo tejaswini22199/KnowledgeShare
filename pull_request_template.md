@@ -7,3 +7,4 @@
 []Followed contribution guidelines
 []Did you check in your local machine if the functionality you added is working or not
 fixes #your issue number
+before and after screenshots
