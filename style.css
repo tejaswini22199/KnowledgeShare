@@ -15,12 +15,15 @@ body{
   margin:15px auto;
 }
 .btn:hover{
-  background: #f005f8;
+  background:#393e46;
   color: white;
 }
 .btn:focus{
   background: #8f04ec;
   color: white;
+}
+.ChangeButton{
+  background-color:#00adb5;
 }
 .form-group{
   position:relative;
