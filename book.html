@@ -12,7 +12,6 @@
     <div class="container mt-4">
         <h1 class="display-4 text-center">
           <i class="fas fa-share-square text-primary"></i> <span class="text-primary">Knowledge</span>Share</h1>
-
           <form id="book-form">
             <div class="form-group">
              <input type="text" id="title" class="form-control" autocomplete="off" placeholder=" ">
@@ -38,27 +37,29 @@
               <span class="content-name">Date</span>
               </label>
             </div>
-              <button class="btn btn-primary btn-block" type="submit" >Add </button>
-          </form>
-          <button class="btn btn-success ChangeButton" onclick="GoToResources()">Click me to see Resources you have got</button>
-          <table class="table table-stripped mt-5" id="hidden">
+
+              <button class="btn btn-primary btn-block" >Add </button>
+		    </form>
+          <button class="btn btn-primary btn-block" onclick="clearlist()" >Clear List </button>         
+          <table class="table table-stripped mt-5">
             <thead>
             <tr>
               <th>Title</th>
               <th>Author</th>
-    
+
               <th>Links</th>
-              <th>Date</th>
+			  <th>Date</th>
               <th></th>
             </tr>
             </thead>
-    
+
             <tbody id="resource-list">
-    
+
             </tbody>
           </table>
-      
+ </div>
       <script src="book.js"></script>
+      
 </body>
 
 </html>
