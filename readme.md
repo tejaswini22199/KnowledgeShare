@@ -72,3 +72,10 @@ CSS
 > git pull upstream
 
  <strong> Do Star this Repository :star2:</strong>
+ 
+ Thank you to everyone who contributed ✨💥
+ <a href="https://github.com/tejaswini22199/KnowledgeShare/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=tejaswini22199/KnowledgeShare" />
+</a>
+
+Made with [contributors-img](https://contrib.rocks).
