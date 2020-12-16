@@ -1,15 +1,12 @@
 html{
-  background-image: url('background.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
+  background: #393e46;
 }
 body{
   margin: 0 5vw 0 5vw;
   padding:2% 3% 12% 3%;
   background: white;
-  border-left: 1.5vw solid #007bff;
-  border-right:  1.5vw solid #007bff;
+  border-left: 1.5vw solid #00adb5;
+  border-right:  1.5vw solid #00adb5;
 }
 .btn{
   margin-top:10px;
@@ -18,7 +15,7 @@ body{
   margin:15px auto;
 }
 .btn:hover{
-  background: #393e46;
+  background: #f005f8;
   color: white;
 }
 .btn:focus{
