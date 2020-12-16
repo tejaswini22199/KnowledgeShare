@@ -1,14 +1,15 @@
-body{
-  
-  background-image:url("background.jpg");
+html{
+  background-image: url('background.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  padding-right:4%;
-  padding-left: 4%;
 }
-h1{
-  margin-bottom: 25px;
+body{
+  margin: 0 5vw 0 5vw;
+  padding:2% 3% 12% 3%;
+  background: white;
+  border-left: 1.5vw solid #007bff;
+  border-right:  1.5vw solid #007bff;
 }
 .btn{
   margin-top:10px;
@@ -17,20 +18,12 @@ h1{
   margin:15px auto;
 }
 .btn:hover{
-  background:#393e46;
+  background: #393e46;
   color: white;
 }
 .btn:focus{
   background: #8f04ec;
   color: white;
-}
-.container{
-  background-color: white;
-  border:1.5vw solid #007bff;
-  margin-left: auto;
-  margin-right:auto;
-  padding:30px;
-  
 }
 .form-group{
   position:relative;
@@ -90,18 +83,8 @@ h1{
 .form-group input:not(:placeholder-shown) + .label-name::after{
   transform: translateX(0%);
 }
-form{
-  width:60%;
-  margin-left: auto;
-  margin-right:auto;
-}
 
 #hidden
 {
   display: none;
-}
-@media only screen and (min-width: 1000px){
-  .container{
-    width:50%;
-  }
 }
