@@ -20,11 +20,10 @@ HTML
 JS
 CSS
 ### 
-![Screenshot (685)](https://user-images.githubusercontent.com/63748249/101676584-5cf9d080-3a81-11eb-9218-6128fe981037.png)
+![Screenshot (193)](https://user-images.githubusercontent.com/59510531/102472311-325cd880-407c-11eb-9c4b-085d2f02d95d.png)
 <br></br>
 <br></br>
-![Screenshot (688)](https://user-images.githubusercontent.com/63748249/101676982-f628e700-3a81-11eb-9726-e1c191fabd25.png)
-
+![Screenshot (194)](https://user-images.githubusercontent.com/59510531/102472593-718b2980-407c-11eb-89e4-5886b486196f.png)
 
 #### This is a beginner friendly project
 
