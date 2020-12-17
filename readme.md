@@ -23,7 +23,7 @@ CSS
 ![Screenshot (193)](https://user-images.githubusercontent.com/59510531/102472311-325cd880-407c-11eb-9c4b-085d2f02d95d.png)
 <br></br>
 <br></br>
-![Screenshot (194)](https://user-images.githubusercontent.com/59510531/102472593-718b2980-407c-11eb-89e4-5886b486196f.png)
+![Screenshot (194)](https://user-images.githubusercontent.com/59510531/102474146-4a355c00-407e-11eb-860f-a7566a4294d4.png)
 
 #### This is a beginner friendly project
 
