@@ -24,9 +24,23 @@
 
         </tbody>
       </table>
-      <button class="btn btn-primary btn-block" onclick="clearlist()" >Clear List </button>
+      <button  id="btnChangeBg" class="btn btn-primary btn-block" onclick="clearlist()" >Clear List </button>
       <button class="btn btn-info ChangeButton" onclick="GoBack()">Click me to go back</button>
+      
+<script>
+  document.querySelector('#btnChangeBg').addEventListener('click', () => {
+    Confirm.open({
+      title: 'Clear List',
+      message: 'Are you sure you want to delete?',
+      onok: () => {
+         localStorage.clear();
+         update();
+      }
+    })
+  });
+</script>
       <script src="book.js"></script>
+      <script type="text/javascript" src="confirmation.js"></script>
 </div>
 </body>
 </html>
