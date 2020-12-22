@@ -74,6 +74,7 @@ CSS
  <strong> Do Star this Repository :star2:</strong>
  ### Project Mentor
 <a href="https://github.com/tejaswini22199"><img src="https://avatars1.githubusercontent.com/u/43006347?s=60&amp;v=4" width=150px height=150px /></a>     
+![Follow me](https://img.shields.io/github/followers/tejaswini22199?label=Follow%20me&style=social)
 
   ![GitHub contributors](https://img.shields.io/github/contributors-anon/tejaswini22199/KnowledgeShare)
   
