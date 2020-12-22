@@ -125,9 +125,9 @@ function update() {
 }
 
 function clearlist() {
-    var ans=prompt("Do you really want to clear all items?, Press y for Yes else press any key");
+   const x= confirm("Do you really want to clear all items?"); 
+    if(x){
     console.log("clearing the storage");
-    if(ans==='y'){
     localStorage.clear();
     update();
     }
