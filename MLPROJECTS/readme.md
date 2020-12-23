@@ -4,7 +4,7 @@
 
 ## About
 
-This python project of news authenticator deals with fake news and real news.
+This is a Machine Learning Project made by Harshita Verma. This python project of news authenticator deals with fake news and real news.
 
 ## Working of this project:
 <br>
