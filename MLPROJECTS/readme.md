@@ -2,6 +2,10 @@
 
 [GitHub Link](https://github.com/ineffable23/DSC-WOW-News-Authenticator)
 
+## About
+
+This python project of news authenticator deals with fake news and real news.
+
 ## Working of this project:
 <br>
 
