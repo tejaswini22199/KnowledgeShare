@@ -53,4 +53,9 @@
 * [Machine Learning Mastery](https://machinelearningmastery.com/blog/)
 * [Andrej Karpathy blog](http://karpathy.github.io/)
 
+#### Github Resources
+
+* [Machine Learning](https://github.com/search?o=desc&q=topic%3Amachine-learning+&s=stars&type=Repositories&utf8=%E2%9C%93)
+* [Fast AI](https://github.com/fastai/fastai)
+
 
