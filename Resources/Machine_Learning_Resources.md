@@ -40,3 +40,8 @@
 
 * [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
 * [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)
+
+#### Udacity
+
+* [Machine Learning By Georgia Tech](https://www.udacity.com/course/machine-learning--ud262)
+* [Become a Machine Learning Engineer](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
