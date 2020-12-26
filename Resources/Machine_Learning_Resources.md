@@ -6,6 +6,7 @@
 * [Machine Learning Tutorial for Beginners](https://www.guru99.com/machine-learning-tutorial.html)
 * [geeksforgeeks](https://www.geeksforgeeks.org/machine-learning/)
 * [Machine Learning](https://www.javatpoint.com/machine-learning)
+* [Google AI](https://ai.google/education/)
 
 #### Organizations
 
@@ -79,3 +80,4 @@
 * [/r/datascience](https://www.reddit.com/r/datascience/)
 * [/r/MLQuestions](https://www.reddit.com/r/MLQuestions)
 * [/r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/)
+
