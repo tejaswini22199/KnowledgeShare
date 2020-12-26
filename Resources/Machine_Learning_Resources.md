@@ -72,3 +72,10 @@
 * [Machine Learnings](http://subscribe.machinelearnings.co/)
 * [The Exponential View](https://www.getrevue.co/profile/azeem)
 * [Data Science Weekly Newsletter](https://www.datascienceweekly.org/)
+
+#### Reddit
+
+* [/r/MachineLearning](https://www.reddit.com/r/MachineLearning/)
+* [/r/datascience](https://www.reddit.com/r/datascience/)
+* [/r/MLQuestions](https://www.reddit.com/r/MLQuestions)
+* [/r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/)
