@@ -14,3 +14,11 @@
 * [Facebook AI Research](https://ai.facebook.com/)
 * [Google Research](https://ai.googleblog.com/)
 * [Microsoft Research](https://www.microsoft.com/en-us/research/)
+
+#### YouTube
+
+* [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
+* [Understanding Machine Learning — Shai Ben-David](https://www.youtube.com/channel/UCR4_akQ1HYMUcDszPQ6jh8Q)
+* [Machine Learning at Berkeley](https://www.youtube.com/channel/UCXweTmAk9K-Uo9R6SmfGtjg)
+* [Data School](https://www.youtube.com/user/dataschool)
+* [sentdex](https://www.youtube.com/user/sentdex)
