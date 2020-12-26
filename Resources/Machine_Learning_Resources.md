@@ -64,3 +64,11 @@
 * [This Week in Machine Learning and AI / iTunes](https://twimlai.com/)
 * [The AI Podcast / iTunes](https://blogs.nvidia.com/ai-podcast/)
 * [Data Skeptic / iTunes](http://dataskeptic.com/)
+
+#### Newsletters
+
+* [AI Weekly](http://aiweekly.co/)
+* [Machine Learning Weekly](http://ww1.mlweekly.com/)
+* [Machine Learnings](http://subscribe.machinelearnings.co/)
+* [The Exponential View](https://www.getrevue.co/profile/azeem)
+* [Data Science Weekly Newsletter](https://www.datascienceweekly.org/)
