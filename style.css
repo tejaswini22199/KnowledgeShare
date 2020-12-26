@@ -85,3 +85,24 @@ body{
 {
   display: none;
 }
+.inner-switch {
+    display: inline-block;
+    cursor: pointer;
+    border: 2px solid #555;
+    border-radius: 3.25rem;
+    width: 4.125rem;
+    text-align: center;
+    font-size: 1rem;
+    padding: 0.1875rem;
+    right: 0.3125rem;
+    align:right;
+}
+.dark,
+.dark * {
+    background-color: #222;
+    color: #e6e6e6;
+    border-color: #e6e6e6;
+}
+.empty {
+    color: #999;
+}
