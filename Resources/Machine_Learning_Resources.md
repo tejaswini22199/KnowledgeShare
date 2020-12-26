@@ -58,4 +58,9 @@
 * [Machine Learning](https://github.com/search?o=desc&q=topic%3Amachine-learning+&s=stars&type=Repositories&utf8=%E2%9C%93)
 * [Fast AI](https://github.com/fastai/fastai)
 
+#### Podcasts
 
+* [Concerning AI / iTunes](https://concerning.ai/)
+* [This Week in Machine Learning and AI / iTunes](https://twimlai.com/)
+* [The AI Podcast / iTunes](https://blogs.nvidia.com/ai-podcast/)
+* [Data Skeptic / iTunes](http://dataskeptic.com/)
