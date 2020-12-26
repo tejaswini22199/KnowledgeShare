@@ -35,3 +35,8 @@
 * [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/course/machinelearning/)
 * [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
 * [Machine Learning, Data Science and Deep Learning with Python](https://www.udemy.com/course/data-science-and-machine-learning-with-python-hands-on/)
+
+#### Coursera
+
+* [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
+* [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)
