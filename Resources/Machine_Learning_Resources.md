@@ -45,3 +45,12 @@
 
 * [Machine Learning By Georgia Tech](https://www.udacity.com/course/machine-learning--ud262)
 * [Become a Machine Learning Engineer](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
+
+#### Blogs
+
+* [FastML](http://fastml.com/)
+* [WildML](http://www.wildml.com/)
+* [Machine Learning Mastery](https://machinelearningmastery.com/blog/)
+* [Andrej Karpathy blog](http://karpathy.github.io/)
+
+
