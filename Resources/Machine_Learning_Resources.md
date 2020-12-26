@@ -29,3 +29,9 @@
 * [Machine Learning Yearning](https://www.deeplearning.ai/machine-learning-yearning/)
 * [A Course in Machine Learning](http://ciml.info/)
 * [Machine Learning](https://www.intechopen.com/books/machine_learning)
+
+#### Udemy Courses
+
+* [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/course/machinelearning/)
+* [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
+* [Machine Learning, Data Science and Deep Learning with Python](https://www.udemy.com/course/data-science-and-machine-learning-with-python-hands-on/)
