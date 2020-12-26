@@ -22,3 +22,10 @@
 * [Machine Learning at Berkeley](https://www.youtube.com/channel/UCXweTmAk9K-Uo9R6SmfGtjg)
 * [Data School](https://www.youtube.com/user/dataschool)
 * [sentdex](https://www.youtube.com/user/sentdex)
+
+#### Books
+
+* [Understanding Machine Learning From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
+* [Machine Learning Yearning](https://www.deeplearning.ai/machine-learning-yearning/)
+* [A Course in Machine Learning](http://ciml.info/)
+* [Machine Learning](https://www.intechopen.com/books/machine_learning)
