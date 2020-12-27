@@ -1,12 +1,13 @@
 ### Knowledge Share
 * Knowledge share is a website where you can add resources related to programming and other competitive exams
 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)         ![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square)     <a href="https://discord.gg/MZKR9ZHh">
-<img src="https://img.shields.io/discord/782685651551387699"></a>    ![GitHub contributors](https://img.shields.io/github/contributors-anon/tejaswini22199/KnowledgeShare) 
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)    [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)         ![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square)     <a href="https://discord.gg/MZKR9ZHh">
+<img src="https://img.shields.io/discord/782685651551387699"></a>   
 ![Maintenance](https://img.shields.io/maintenance/yes/2020)
 ![GitHub issues](https://img.shields.io/github/issues/tejaswini22199/KnowledgeShare)     ![GitHub issues](https://img.shields.io/github/issues-closed/tejaswini22199/KnowledgeShare)
+
+![Github PRs](https://img.shields.io/github/issues-pr/tejaswini22199/KnowledgeShare)  ![Github PRs](https://img.shields.io/github/issues-pr-closed/tejaswini22199/KnowledgeShare)
+
 [![GitHub forks](https://img.shields.io/github/forks/tejaswini22199/KnowledgeShare)](https://github.com/tejaswini22199/KnowledgeShare/network)  [![GitHub stars](https://img.shields.io/github/stars/tejaswini22199/KnowledgeShare)](https://github.com/tejaswini22199/KnowledgeShare/stargazers)
 ## Open Source Contests
 
@@ -20,11 +21,10 @@ HTML
 JS
 CSS
 ### 
-![Screenshot (685)](https://user-images.githubusercontent.com/63748249/101676584-5cf9d080-3a81-11eb-9218-6128fe981037.png)
+![Screenshot (193)](https://user-images.githubusercontent.com/59510531/102472311-325cd880-407c-11eb-9c4b-085d2f02d95d.png)
 <br></br>
 <br></br>
-![Screenshot (688)](https://user-images.githubusercontent.com/63748249/101676982-f628e700-3a81-11eb-9726-e1c191fabd25.png)
-
+![Screenshot (194)](https://user-images.githubusercontent.com/59510531/102474146-4a355c00-407e-11eb-860f-a7566a4294d4.png)
 
 #### This is a beginner friendly project
 
@@ -72,3 +72,21 @@ CSS
 > git pull upstream
 
  <strong> Do Star this Repository :star2:</strong>
+ ### Project Mentor
+<a href="https://github.com/tejaswini22199"><img src="https://avatars1.githubusercontent.com/u/43006347?s=60&amp;v=4" width=150px height=150px /></a>     
+![Follow me](https://img.shields.io/github/followers/tejaswini22199?label=Follow%20me&style=social)
+
+  ![GitHub contributors](https://img.shields.io/github/contributors-anon/tejaswini22199/KnowledgeShare)
+  
+ Thank you to everyone who contributed ✨💥
+ <a href="https://github.com/tejaswini22199/KnowledgeShare/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=tejaswini22199/KnowledgeShare" />
+</a>
+
+Made with [contributors-img](https://contrib.rocks).
+
+[FEEDBACK](https://forms.gle/j2zgFRddm8ZBgiJV8)
+
+Every one who took part in KWOC and contributed to this project, Please fill this form
+
+NOTE:It is not from KWOC. (It is my personal g-form)I want to know about your honest feedback regarding project. 
