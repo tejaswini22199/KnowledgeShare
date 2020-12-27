@@ -1,0 +1,1 @@
+Dark mode added and Display  footer too.
