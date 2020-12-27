@@ -22,3 +22,9 @@
 - [Git and GitHub for Beginners](https://www.youtube.com/watch?v=RGOj5yH7evk)
 - [Git Tutorial for Beginners](https://www.youtube.com/watch?v=DVRQoVRzMIY)
 - [Git & GitHub Tutorial](https://www.youtube.com/watch?v=gwWKnnCMQ5c)
+
+## paid courses
+
+- [Git Complete](https://www.udemy.com/course/git-complete/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-.6Z7VvZtkoDCgzAUeNZHmg)
+- [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github)
+- [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
