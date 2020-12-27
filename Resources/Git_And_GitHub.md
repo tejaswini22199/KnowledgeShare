@@ -10,3 +10,8 @@
 - [GitHub Official](https://docs.github.com/en)
 - [Freecodecamp](https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/)
 - [Microsoft](https://docs.microsoft.com/en-us/contribute/git-github-fundamentals)
+
+## Books
+- [Git](https://www.amazon.com/dp/B087SHQMDL?tag=uuid10-20)
+- [Jump Start Git](https://www.amazon.com/dp/1925836347?tag=uuid10-20)
+- [Beginning Git and GitHub](https://www.amazon.com/dp/1484253124?tag=uuid10-20)
