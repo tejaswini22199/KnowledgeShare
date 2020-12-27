@@ -1,5 +1,5 @@
 ### GIT AND GITHUB RESOURCES
-getting familiar with git and GitHub is not that complicated as it may look. If you’ve never used git or github before or want to know more, there are a bunch of things that you need to learn and use.
+/getting familiar with git and GitHub is not that complicated as it may look. If you’ve never used git or github before or want to know more, there are a bunch of things that you need to learn and use.
 
 ## Set Up
 
@@ -33,3 +33,7 @@ getting familiar with git and GitHub is not that complicated as it may look. If 
 ## Git Handbook
 
 - [Official Github](https://guides.github.com/introduction/git-handbook/)
+
+## Git Cheatsheet
+ 
+- [Git Cheatsheet](https://ndpsoftware.com/git-cheatsheet.html#loc=index;)
