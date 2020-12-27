@@ -29,3 +29,7 @@ getting familiar with git and GitHub is not that complicated as it may look. If 
 - [Git Complete](https://www.udemy.com/course/git-complete/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-.6Z7VvZtkoDCgzAUeNZHmg)
 - [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github)
 - [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
+
+## Git Handbook
+
+- [Official Github](https://guides.github.com/introduction/git-handbook/)
