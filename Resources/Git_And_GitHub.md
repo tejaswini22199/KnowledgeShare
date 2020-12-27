@@ -12,6 +12,13 @@
 - [Microsoft](https://docs.microsoft.com/en-us/contribute/git-github-fundamentals)
 
 ## Books
+
 - [Git](https://www.amazon.com/dp/B087SHQMDL?tag=uuid10-20)
 - [Jump Start Git](https://www.amazon.com/dp/1925836347?tag=uuid10-20)
 - [Beginning Git and GitHub](https://www.amazon.com/dp/1484253124?tag=uuid10-20)
+
+## YouTube videos
+
+- [Git and GitHub for Beginners](https://www.youtube.com/watch?v=RGOj5yH7evk)
+- [Git Tutorial for Beginners](https://www.youtube.com/watch?v=DVRQoVRzMIY)
+- [Git & GitHub Tutorial](https://www.youtube.com/watch?v=gwWKnnCMQ5c)
