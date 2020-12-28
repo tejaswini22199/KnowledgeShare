@@ -14,6 +14,8 @@
         <span class="inner-switch" >OFF</span>
     </div>
 
+	
+	
 
          <div class="container mt-4">
           <h1 class="display-4 text-center">
@@ -43,7 +45,10 @@
               <span class="content-name">Date</span>
               </label>
             </div>
-
+              <button class="btn btn-primary btn-block" >Add </button>
+		    </form>
+          <button class="btn btn-primary btn-block" onclick="clearlist()" >Clear List </button>         
+          <table class="table table-stripped mt-5">
             <thead>
             <tr>
               <th>Title</th>
@@ -55,33 +60,34 @@
             </thead>
             <tbody id="resource-list">
             </tbody>
-            </table>
-            <script src="book.js"></script> 
+          </table>
+      </div>
+        <script src="book.js"></script> 
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>   
          <script src="script.js"></script>
 		<footer class="footer-distributed">
 			<div class="footer-left">
 				<p class="footer-links">
-				<button onclick="document.location='https://github.com/tejaswini22199/KnowledgeShare/network/members'"class="button2" style="height:50px; width:120px"><img src="https://banner2.cleanpng.com/20180429/gzw/kisspng-computer-icons-fork-branching-source-code-5ae55a968fa6e5.6869739515249803745884.jpg" height= "40%"; width="20%"> Forks </img></button>
+			<button onclick="document.location='https://github.com/tejaswini22199/KnowledgeShare/network/members'"class="button2" style="height:30px; width:90px"><img src="https://img.shields.io/github/forks/tejaswini22199/KnowledgeShare" height= "100%"; width="100%"></img></button>
 				</p>
         <p class="footer-links">
-				<button onclick="document.location='https://github.com/tejaswini22199/KnowledgeShare/stargazers'"class="button2"style="height:50px; width:120px"><i class="fa fa-star">   Stars </i></button>
+				<button onclick="document.location='https://github.com/tejaswini22199/KnowledgeShare/stargazers'"class="button2"style="height:30px; width:90px"><img src="https://img.shields.io/github/stars/tejaswini22199/KnowledgeShare" height= "100%"; width="100%"></img></button>
 				</p>
 			</div>
 			<div class="footer-center">
 				<div>
-                <u><h4>Admin</h4></u>
+                <h4>Admin</h4>
 					<a href="https://github.com/tejaswini22199"><i class="fa fa-github"></i></a>
 				</div>
 			</div>
 			<div class="footer-right">
-				<p class="footer-company-about">
-			<u>	<h4>Contributors Of Repository </h4></u>
-         
-			      	<div class="footer-icons">
-				          	<a href="https://github.com/tejaswini22199/KnowledgeShare/graphs/contributors"><i class="fa fa-github"></i></a>         
-				</div>
-			</div>
+				
+			<b><h4>Contributors Of Repository </h4></b>
+      </br>
+              	<button onclick="document.location='https://github.com/tejaswini22199/KnowledgeShare/graphs/contributors'"class="button2"style="height:30px; width:120px"><img src="https://img.shields.io/github/contributors-anon/tejaswini22199/KnowledgeShare" height= "100%"; width="100%"></img></button>
+	 
+    	</div>
 		</footer>
-     </body>
+   	
+   </body>
 </html>
