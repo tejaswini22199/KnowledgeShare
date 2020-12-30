@@ -17,11 +17,11 @@ class Mywindow:
         self.t1=Entry(bd=3,font=("arial",12,"bold"))
         self.t1.place(x=200,y=50)
 
-        self.t1=Entry(bd=3,font=("arial",12,"bold"))
-        self.t1.place(x=200,y=100)
+        self.t2=Entry(bd=3,font=("arial",12,"bold"))
+        self.t2.place(x=200,y=100)
 
-        self.t1=Entry(bd=3,font=("arial",12,"bold"))
-        self.t1.place(x=200,y=200)
+        self.t3=Entry(bd=3,font=("arial",12,"bold"))
+        self.t3.place(x=200,y=200)
 
         self.b1=Button(master,width=10,text='Add',command=self.add,font=("arial",10,"bold"),bg="yellow")
         self.b1.place(x=200,y=150)
