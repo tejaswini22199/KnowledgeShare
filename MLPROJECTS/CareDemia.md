@@ -23,9 +23,9 @@
 
 #### Features 
 
-* Cancer Prediction
-
-##### Providing information regarding the various cancer communities #####
+##### Cancer Prediction #####
 ----------------------------------------------------------------------------------------
-<img src= https://github.com/yashasvimisra2798/Care-Demia/blob/main/images/Community.PNG>
+Fill in the relevant details and click on the Result button
+<img src=https://github.com/yashasvimisra2798/Care-Demia/blob/main/images/form.PNG>
+
 
