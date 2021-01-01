@@ -24,3 +24,8 @@
 #### Features 
 
 * Cancer Prediction
+
+##### Providing information regarding the various cancer communities #####
+----------------------------------------------------------------------------------------
+<img src= https://github.com/yashasvimisra2798/Care-Demia/blob/main/images/Community.PNG>
+
