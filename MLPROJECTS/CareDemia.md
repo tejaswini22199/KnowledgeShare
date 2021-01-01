@@ -54,3 +54,6 @@ Fill in the relevant details and click on the Result button
 
 * [Yashasvi Misra](https://github.com/yashasvimisra2798)
 * [Shreya Raghuvansh](https://github.com/Shreya17r)
+
+
+#### Resources for Techstack ####
