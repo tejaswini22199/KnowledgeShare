@@ -11,6 +11,8 @@ Tech Stack used- Html, Javascript.
 
 ## Sample Output 
 
+Sample output image
+
 ![Smaple image](img.png)
 
-#### Owner's user name: [Nivedita967](https://github.com/Nivedita967)
+#### User name of Owner: [Nivedita967](https://github.com/Nivedita967)
