@@ -30,5 +30,8 @@ Fill in the relevant details and click on the Result button
 
 
 ##### Providing information regarding the various cancer communities #####
+----------------------------------------------------------------------------------------
+<img src= https://github.com/yashasvimisra2798/Care-Demia/blob/main/images/Community.PNG>
+
 
 
