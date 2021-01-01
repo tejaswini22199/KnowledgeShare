@@ -43,13 +43,12 @@ footer{
 	
 }
 .button2 {
-  background-color: black; 
-  border: none;
-  color: white;
+  background-color:#999; 
+  border: grey;
+  padding :0px 0px 0px 0px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 12px;
 }
 .footer-distributed .footer-left,
 .footer-distributed .footer-center,
