@@ -10,6 +10,9 @@
 * A flask application for breast cancer detection. The app can tell whether the breast mass is benign or malignant. It uses the Random Forest 
   classifier to find the pattern in the data.
 
+#### Requirements
+
+
 #### Working 
 
 * Install the dependencies by running the command `pip install -r requirements.txt`
