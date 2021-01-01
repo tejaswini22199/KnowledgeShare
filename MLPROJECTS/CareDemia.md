@@ -50,14 +50,15 @@ Fill in the relevant details and click on the Result button
 [YouTube Link](https://www.youtube.com/watch?v=lZpyHGi9gLI&feature=emb_title)
 
 
-#### Made By #####
-
-* [Yashasvi Misra](https://github.com/yashasvimisra2798)
-* [Shreya Raghuvansh](https://github.com/Shreya17r)
-
-
 #### Resources for Techstack ####
 
 * [Random Forest Classifier](https://towardsdatascience.com/understanding-random-forest-58381e0602d2)
 * [ML model deployment using Flask on Heroku](https://towardsdatascience.com/create-an-api-to-deploy-machine-learning-models-using-flask-and-heroku-67a011800c50)
 * [HTML & CSS](https://www.w3schools.com/html/html_css.asp)
+
+
+#### Made By #####
+
+* [Yashasvi Misra](https://github.com/yashasvimisra2798)
+* [Shreya Raghuvansh](https://github.com/Shreya17r)
+
