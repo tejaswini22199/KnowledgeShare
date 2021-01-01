@@ -19,4 +19,7 @@
 #### Working 
 
 * Install the dependencies by running the command `pip install -r requirements.txt`
-* Once dependencies are installed, just run `python app.py` to see it in your browser.
+* Once dependencies are installed, just run `python app.py` to see it in your browser
+
+#### Features 
+
