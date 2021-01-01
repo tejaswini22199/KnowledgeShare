@@ -4,5 +4,9 @@
 
 ## About
 
+This Project is made by Nivedita Singh
 This project shows current standard time along with day and date.
 
+Tech Stack used- Html, Javascript.
+
+Owner GitHub user name: [Nivedita967](https://github.com/Nivedita967)
