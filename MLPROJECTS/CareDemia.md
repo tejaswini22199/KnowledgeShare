@@ -11,3 +11,5 @@
   classifier to find the pattern in the data.
 
 #### Working 
+
+* Install the dependencies by running the command `pip install -r requirements.txt`
