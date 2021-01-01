@@ -35,5 +35,8 @@ Fill in the relevant details and click on the Result button
 
 
 ##### Providing relevant news regarding the breast cancer #####
+----------------------------------------------------------------------------------------
+<img src= https://github.com/yashasvimisra2798/Care-Demia/blob/main/images/News.PNG>
+
 
 
