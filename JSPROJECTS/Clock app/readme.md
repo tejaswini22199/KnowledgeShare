@@ -4,7 +4,7 @@
 
 ## About
 
-This Project is made by Nivedita Singh
+This Project is made by Nivedita Singh  
 This project shows current standard time along with day and date.
 
 Tech Stack used- Html, Javascript.
@@ -13,4 +13,4 @@ Tech Stack used- Html, Javascript.
 
 ![Smaple image](img.png)
 
-#### Owner's GitHub user name: [Nivedita967](https://github.com/Nivedita967)
+#### Owner's user name: [Nivedita967](https://github.com/Nivedita967)
