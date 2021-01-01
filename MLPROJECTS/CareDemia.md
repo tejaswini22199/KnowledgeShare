@@ -57,3 +57,5 @@ Fill in the relevant details and click on the Result button
 
 
 #### Resources for Techstack ####
+
+* [Random Forest Classifier](https://towardsdatascience.com/understanding-random-forest-58381e0602d2)
