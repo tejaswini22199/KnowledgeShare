@@ -12,6 +12,9 @@
 
 #### Requirements
 
+* Python >=3.6
+* Flask
+* Heroku
 
 #### Working 
 
