@@ -9,4 +9,8 @@ This project shows current standard time along with day and date.
 
 Tech Stack used- Html, Javascript.
 
-Owner GitHub user name: [Nivedita967](https://github.com/Nivedita967)
+## Sample Output 
+
+![Smaple image](img.png)
+
+#### Owner's GitHub user name: [Nivedita967](https://github.com/Nivedita967)
