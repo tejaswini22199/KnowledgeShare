@@ -59,3 +59,4 @@ Fill in the relevant details and click on the Result button
 #### Resources for Techstack ####
 
 * [Random Forest Classifier](https://towardsdatascience.com/understanding-random-forest-58381e0602d2)
+* [ML model deployment using Flask on Heroku](https://towardsdatascience.com/create-an-api-to-deploy-machine-learning-models-using-flask-and-heroku-67a011800c50)
