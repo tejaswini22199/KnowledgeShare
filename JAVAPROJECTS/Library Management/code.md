@@ -3,6 +3,7 @@ The software project for Public Library Management contains various forms along 
 ## Frame:  MainUI.java
 ![main](https://user-images.githubusercontent.com/59510531/103482730-87347900-4e08-11eb-9907-27b401e56495.png)
 #### Coding for  MainUI.java
+``` Java
   /**MainUI.java**/
 public class MainUI extends javax.swing.JFrame {
     /** Creates new form MainUI */
@@ -71,8 +72,8 @@ public class MainUI extends javax.swing.JFrame {
                 new MainUI().setVisible(true);
             }
         });
-    }
-
+    }}
+```
 
 ## Frame:  PubUI.java
 ![publish](https://user-images.githubusercontent.com/59510531/103482768-bea32580-4e08-11eb-8ee1-9c37b8caaf65.png)
@@ -1491,7 +1492,7 @@ Statement stmt = null;
     }
   }
   ```
-##Frame:  MembUI.java
+## Frame:  MembUI.java
 ![MEMBERSHIP DATA CONSOLE](https://user-images.githubusercontent.com/59510531/103483059-ac29eb80-4e0a-11eb-90c9-d2899d5c5101.png)
 #### Coding for MemberUI.Java
 ```  Java
@@ -1596,7 +1597,7 @@ public class MembUI extends javax.swing.JFrame {
   ```
 ## Frame:  MembEditUI.java
 ![MEMBER EDITION FORM](https://user-images.githubusercontent.com/59510531/103483088-e7c4b580-4e0a-11eb-9255-fd6b75d0864f.png)
-####Coding for MembEditUI.java
+#### Coding for MembEditUI.java
 ``` Java
 /*  * MembEditUI.java  **/
 import java.sql.*;
@@ -1718,8 +1719,9 @@ public class MembEditUI extends javax.swing.JFrame {
                 new MembEditUI().setVisible(true);
             }
         });
-    }}
-    ```
+    }
+  }
+```
 ## Frame:  MembDelUI.java
 ![member deletion form](https://user-images.githubusercontent.com/59510531/103483123-396d4000-4e0b-11eb-85af-4ad4e01a17f8.png)
 #### Coding for MembDelUI.java
@@ -1863,7 +1865,8 @@ public class MembDelUI extends javax.swing.JFrame {
         });
     }
   }
-      ```
+```
+
 ## Frame:  MembNavUI.java
 ![member record navigation](https://user-images.githubusercontent.com/59510531/103483174-7802fa80-4e0b-11eb-9c66-bcff8ac4ff7a.png)
 ####Coding for MemebNavUI.java
