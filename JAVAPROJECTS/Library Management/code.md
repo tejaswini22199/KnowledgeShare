@@ -175,7 +175,7 @@ import javax.swing.JOptionPane;
 ```
 ## Frame:  PubEditUI.java
 ![member edition](https://user-images.githubusercontent.com/59510531/103482815-f4e0a500-4e08-11eb-8d81-acfc25bb9011.png)
-####Coding for PubEditUI.java
+#### Coding for PubEditUI.java
 ``` Java
 /*  * PubEditUI.java  **/
 import java.sql.*;
@@ -1869,7 +1869,7 @@ public class MembDelUI extends javax.swing.JFrame {
 
 ## Frame:  MembNavUI.java
 ![member record navigation](https://user-images.githubusercontent.com/59510531/103483174-7802fa80-4e0b-11eb-9c66-bcff8ac4ff7a.png)
-####Coding for MemebNavUI.java
+#### Coding for MemebNavUI.java
 ``` Java
 /*  * MembNavUI.java * */
 import java.sql.*;
