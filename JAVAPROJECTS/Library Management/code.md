@@ -3,7 +3,6 @@ The software project for Public Library Management contains various forms along 
 ## Frame:  MainUI.java
 ![main](https://user-images.githubusercontent.com/59510531/103482730-87347900-4e08-11eb-9907-27b401e56495.png)
 #### Coding for  MainUI.java
- ```java
   /**MainUI.java**/
 public class MainUI extends javax.swing.JFrame {
     /** Creates new form MainUI */
@@ -72,7 +71,8 @@ public class MainUI extends javax.swing.JFrame {
                 new MainUI().setVisible(true);
             }
         });
-    }```
+    }
+
 
 ## Frame:  PubUI.java
 ![publish](https://user-images.githubusercontent.com/59510531/103482768-bea32580-4e08-11eb-8ee1-9c37b8caaf65.png)
@@ -170,10 +170,12 @@ import javax.swing.JOptionPane;
             }
         });
     }*/
-} ```
+}
+```
 ## Frame:  PubEditUI.java
 ![member edition](https://user-images.githubusercontent.com/59510531/103482815-f4e0a500-4e08-11eb-8d81-acfc25bb9011.png)
 ####Coding for PubEditUI.java
+``` Java
 /*  * PubEditUI.java  **/
 import java.sql.*;
 import javax.swing.JOptionPane;
@@ -305,9 +307,12 @@ public class PubEditUI extends javax.swing.JFrame {
             }
         });
     }*/
+}
+```
 ## Frame:  PubDelUI.java
 ![publisher data](https://user-images.githubusercontent.com/59510531/103482844-31ac9c00-4e09-11eb-994c-96dcd007d7d9.png)
 #### Coding for PubDelUI.Java
+``` Java
 /* PubDelUI.java */
 import java.sql.*;
 import javax.swing.JOptionPane;
@@ -444,11 +449,14 @@ public class PubDelUI extends javax.swing.JFrame {
             }
         });
     }*/
+  }
+  ```
 ## Frame: PubNavUI.java
 
 ![publisher record](https://user-images.githubusercontent.com/59510531/103482867-67518500-4e09-11eb-835c-46cf73801cf3.png)
 
 #### Coding of PubNavUI.java
+``` Java
 /* PubNavUI.java  */
 import java.sql.*;
 import javax.swing.JOptionPane;
@@ -650,9 +658,12 @@ public class PubNavUI extends javax.swing.JFrame {
             }
         });
     }
+  }
+```
 ##  Frame:  LibUI.java
 ![LIBRARY CONSOLE](https://user-images.githubusercontent.com/59510531/103482917-b13a6b00-4e09-11eb-8542-2002e348dc9e.png)
 #### Coding for LibUI.java
+``` Java
 /*  * LibUI.java  **/
 import java.sql.*;
 import javax.swing.JOptionPane;
@@ -786,9 +797,12 @@ public class LibUI extends javax.swing.JFrame {
             }
         });
     }
+  }
+  ```
 ## Frame:  LibEditUI.java
 ![LIBRARY BOOK MODIFICATION](https://user-images.githubusercontent.com/59510531/103482944-e34bcd00-4e09-11eb-9b59-3a3c9e84a5c9.png)
 #### Coding for LibEditUI.java
+```  Java
 /* * LibEditUI.java  **/
 import java.sql.*;
 import javax.swing.JOptionPane;
@@ -957,9 +971,12 @@ public class LibEditUI extends javax.swing.JFrame {
             }
         });
     }*/
+  }
+  ```
 ## Frame:  LibDelUI.java
 ![LIBRARY BOOK DELETION](https://user-images.githubusercontent.com/59510531/103482979-155d2f00-4e0a-11eb-901b-392f7653c896.png)
 #### Coding of LibDelUI.Java
+```  Java
 /* * LibDelUI.java **/
 import java.sql.*;
 import javax.swing.JOptionPane;
@@ -1101,9 +1118,12 @@ public class LibDelUI extends javax.swing.JFrame {
             }
         });
     }
+  }
+  ```
 ## Frame:  IssueUI.java
 ![BOOK ISSUE FORM](https://user-images.githubusercontent.com/59510531/103483002-40e01980-4e0a-11eb-91fa-cc342e2543ee.png)
 #### Coding for IssueUI.java
+``` Java
 /* * IssueUI.java **/
 import java.sql.*;
 import javax.swing.JOptionPane;
@@ -1304,9 +1324,14 @@ public class IssueUI extends javax.swing.JFrame {
                 new IssueUI().setVisible(true);
             }
         });
+      }
+    }
+  }
+  ```
 ## Frame:  ReturnUI.java
 ![LIBRARY BOOK RETURN](https://user-images.githubusercontent.com/59510531/103483031-800e6a80-4e0a-11eb-81a3-3f760f8b7263.png)
 #### Coding for ReturnUI.java
+``` Java
 /* * ReturnUI.java  **/
 import java.sql.*;
 import javax.swing.JOptionPane;
@@ -1464,9 +1489,12 @@ Statement stmt = null;
             }
         });
     }
+  }
+  ```
 ##Frame:  MembUI.java
 ![MEMBERSHIP DATA CONSOLE](https://user-images.githubusercontent.com/59510531/103483059-ac29eb80-4e0a-11eb-90c9-d2899d5c5101.png)
 #### Coding for MemberUI.Java
+```  Java
 /*  * MembUI.java  **/
 import java.sql.*;
 import javax.swing.JOptionPane;
@@ -1564,9 +1592,12 @@ public class MembUI extends javax.swing.JFrame {
             }
         });
     }
+  }
+  ```
 ## Frame:  MembEditUI.java
 ![MEMBER EDITION FORM](https://user-images.githubusercontent.com/59510531/103483088-e7c4b580-4e0a-11eb-9255-fd6b75d0864f.png)
 ####Coding for MembEditUI.java
+``` Java
 /*  * MembEditUI.java  **/
 import java.sql.*;
 import javax.swing.JOptionPane;
@@ -1687,10 +1718,12 @@ public class MembEditUI extends javax.swing.JFrame {
                 new MembEditUI().setVisible(true);
             }
         });
-    }
+    }}
+    ```
 ## Frame:  MembDelUI.java
 ![member deletion form](https://user-images.githubusercontent.com/59510531/103483123-396d4000-4e0b-11eb-85af-4ad4e01a17f8.png)
 #### Coding for MembDelUI.java
+``` Java
 /*  * MembDelUI.java  * */
 import java.sql.*;
 import javax.swing.JOptionPane;
@@ -1829,9 +1862,12 @@ public class MembDelUI extends javax.swing.JFrame {
             }
         });
     }
+  }
+      ```
 ## Frame:  MembNavUI.java
 ![member record navigation](https://user-images.githubusercontent.com/59510531/103483174-7802fa80-4e0b-11eb-9c66-bcff8ac4ff7a.png)
 ####Coding for MemebNavUI.java
+``` Java
 /*  * MembNavUI.java * */
 import java.sql.*;
 import javax.swing.JOptionPane;
@@ -2054,3 +2090,7 @@ public class MembNavUI extends javax.swing.JFrame {
             public void run() {
                 new MembNavUI().setVisible(true);
             }
+          }
+        }
+      }
+```
