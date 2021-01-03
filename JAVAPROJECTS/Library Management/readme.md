@@ -3,60 +3,61 @@ The software project for Public Library Management contains various forms along 
 ## Frame:  MainUI.java
 ![main](https://user-images.githubusercontent.com/59510531/103482730-87347900-4e08-11eb-9907-27b401e56495.png)
 #### Coding for  MainUI.java
-/**MainUI.java**/
+ ```java
+  /**MainUI.java**/
 public class MainUI extends javax.swing.JFrame {
     /** Creates new form MainUI */
     public MainUI() {
         initComponents();
     }
-    private void mnuPubActionPerformed(java.awt.event.ActionEvent evt) {                                       
+    private void mnuPubActionPerformed(java.awt.event.ActionEvent evt) {                                        
         //this.setVisible(false);
         new pubUI().setVisible(true);
         new pubUI().getAlignmentX();
-    }                                      
-    private void mnuQuitActionPerformed(java.awt.event.ActionEvent evt) {                                        
+    }                                        
+    private void mnuQuitActionPerformed(java.awt.event.ActionEvent evt) {                                         
         System.exit(0);
     }                                       
-    private void mnuPModActionPerformed(java.awt.event.ActionEvent evt) {                                        
+    private void mnuPModActionPerformed(java.awt.event.ActionEvent evt) {                                         
         new PubEditUI().setVisible(true);
-    }                                       
-    private void mnuPDelActionPerformed(java.awt.event.ActionEvent evt) {                                        
-        new PubDelUI().setVisible(true);
-    }                                       
-    private void mnuPNavActionPerformed(java.awt.event.ActionEvent evt) {                                        
-        new PubNavUI().setVisible(true);
-    }                                       
-    private void mnuLibActionPerformed(java.awt.event.ActionEvent evt) {                                       
-        new LibUI().setVisible(true);
-    }                                      
-    private void mnuMembActionPerformed(java.awt.event.ActionEvent evt) {                                        
-        new MembUI().setVisible(true);
-    }                                       
-    private void mnuMModActionPerformed(java.awt.event.ActionEvent evt) {                                        
-        new MembEditUI().setVisible(true);
-    }                                       
-    private void mnuMDelActionPerformed(java.awt.event.ActionEvent evt) {                                        
-        new MembDelUI().setVisible(true);
-    }                                       
-    private void mnuMNavActionPerformed(java.awt.event.ActionEvent evt) {                                        
-        new MembNavUI().setVisible(true);
-    }                                       
-    private void mnuIssueActionPerformed(java.awt.event.ActionEvent evt) {                                         
-        new IssueUI().setVisible(true);
     }                                        
-    private void mnuReturnActionPerformed(java.awt.event.ActionEvent evt) {                                          
+    private void mnuPDelActionPerformed(java.awt.event.ActionEvent evt) {                                         
+        new PubDelUI().setVisible(true);
+    }                                        
+    private void mnuPNavActionPerformed(java.awt.event.ActionEvent evt) {                                         
+        new PubNavUI().setVisible(true);
+    }                                        
+    private void mnuLibActionPerformed(java.awt.event.ActionEvent evt) {                                        
+        new LibUI().setVisible(true);
+    }                                       
+    private void mnuMembActionPerformed(java.awt.event.ActionEvent evt) {                                         
+        new MembUI().setVisible(true);
+    }                                        
+    private void mnuMModActionPerformed(java.awt.event.ActionEvent evt) {                                         
+        new MembEditUI().setVisible(true);
+    }                                        
+    private void mnuMDelActionPerformed(java.awt.event.ActionEvent evt) {                                         
+        new MembDelUI().setVisible(true);
+    }                                        
+    private void mnuMNavActionPerformed(java.awt.event.ActionEvent evt) {                                         
+        new MembNavUI().setVisible(true);
+    }                                        
+    private void mnuIssueActionPerformed(java.awt.event.ActionEvent evt) {                                          
+        new IssueUI().setVisible(true);
+    }                                         
+    private void mnuReturnActionPerformed(java.awt.event.ActionEvent evt) {                                           
         new ReturnUI().setVisible(true);
-    }                                         
-    private void mnuABListActionPerformed(java.awt.event.ActionEvent evt) {                                          
+    }                                          
+    private void mnuABListActionPerformed(java.awt.event.ActionEvent evt) {                                           
         new ABListUI().setVisible(true);
-    }                                         
-    private void mnuIBListActionPerformed(java.awt.event.ActionEvent evt) {                                          
+    }                                          
+    private void mnuIBListActionPerformed(java.awt.event.ActionEvent evt) {                                           
         new IBListUI().setVisible(true);
-    }                                         
-    private void mnuMListActionPerformed(java.awt.event.ActionEvent evt) {                                         
+    }                                          
+    private void mnuMListActionPerformed(java.awt.event.ActionEvent evt) {                                          
         new MListUI().setVisible(true);
-    }     
-    private void mnuLibEditActionPerformed(java.awt.event.ActionEvent evt) {                                           
+    }      
+    private void mnuLibEditActionPerformed(java.awt.event.ActionEvent evt)  {                                            
         // TODO add your handling code here:
         new LibEditUI().setVisible(true);
     }                                          
@@ -71,11 +72,12 @@ public class MainUI extends javax.swing.JFrame {
                 new MainUI().setVisible(true);
             }
         });
-    }
+    }```
 
 ## Frame:  PubUI.java
 ![publish](https://user-images.githubusercontent.com/59510531/103482768-bea32580-4e08-11eb-8ee1-9c37b8caaf65.png)
 #### Coding of pubUI.java
+``` Java
 import java.sql.*;
 import javax.swing.JOptionPane;
     private void cmdExitActionPerformed(java.awt.event.ActionEvent evt) {                                        
@@ -168,7 +170,7 @@ import javax.swing.JOptionPane;
             }
         });
     }*/
-}
+} ```
 ## Frame:  PubEditUI.java
 ![member edition](https://user-images.githubusercontent.com/59510531/103482815-f4e0a500-4e08-11eb-8d81-acfc25bb9011.png)
 ####Coding for PubEditUI.java
