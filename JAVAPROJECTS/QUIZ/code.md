@@ -1,9 +1,9 @@
 
 The software project for Public Quiz Management contains various forms along with programming codes. Forms (JFrames) and their event coding are given below:
 
-# Frame:  LogIn.java
+## Frame:  LogIn.java
 ![login java](https://user-images.githubusercontent.com/59510531/103502379-0e203a80-4e77-11eb-8f83-116ceccfeb2b.png)
-## Coding of LOGIN.java
+#### Coding of LOGIN.java
 ``` Java
 import java.sql.*;
 public class LogIn extends javax.swing.JFrame {
@@ -45,9 +45,9 @@ private void loginBTNActionPerformed(java.awt.event.ActionEvent evt) {
 }
 ```
 
-# Frame:  Register.java
+## Frame:  Register.java
 ![registration form](https://user-images.githubusercontent.com/59510531/103502477-52abd600-4e77-11eb-994f-e30b3308545e.png)
-## Coding of Register.java
+#### Coding of Register.java
 ``` java
 import java.sql.*;
 import javax.swing.JOptionPane;
