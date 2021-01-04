@@ -21,3 +21,4 @@
 * [Customer support bot](https://medium.com/@calebkaiser/how-to-actually-use-ml-in-production-reading-comprehension-1597095a54b2)
 * [Text Generator](https://github.com/shivsondhi/Text-Generator)
 * [Language identifier](https://medium.com/@calebkaiser/how-to-actually-use-ml-in-production-text-classification-1e27bb5ac64d)
+* [Named Entity Recognition](https://github.com/yashasvimisra2798/NamedEntityRecognition)
