@@ -30,5 +30,5 @@
 * [SIGGRAPH Paper on the web](http://kesen.realtimerendering.com/)
 * [NIPS Proceedings](https://proceedings.neurips.cc//)
 * [Computer Vision Foundation open access](https://openaccess.thecvf.com/menu)
-* [Annotated Computer Vision Bibliography]
-* [Calendar of Computer Image Analysis, Computer Vision Conferences]
+* [Annotated Computer Vision Bibliography](https://sites.usc.edu/iris-cvlab/)
+* [Calendar of Computer Image Analysis, Computer Vision Conferences](https://sites.usc.edu/iris-cvlab/)
