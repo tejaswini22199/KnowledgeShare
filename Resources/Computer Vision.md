@@ -39,4 +39,5 @@
 * [Optical Character Recognition (OCR)](https://towardsdatascience.com/getting-started-with-optical-character-recognition-using-python-e4a9851ddfab)
 * [Face Recognition using Deep Learning](https://towardsdatascience.com/smart-face-lock-system-6c5a77aa5d30)
 * [Object Detection/Object Tracking](https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi)
+* [Human Emotion and Gesture Recognition]
 
