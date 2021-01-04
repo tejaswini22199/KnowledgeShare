@@ -9,3 +9,4 @@
 * [Computer Vision ](https://www.amazon.com/Computer-Vision-Linda-G-Shapiro/dp/0130307963)
 * [Learning OpenCV: Computer Vision with the OpenCV Library]
 * [Learning OpenCV: Computer Vision with the OpenCV Library]
+* [OpenCV Essentials]
