@@ -26,5 +26,5 @@
 
 #### Papers
 
-* [CVPapers]
-* [SIGGRAPH Paper on the web]
+* [CVPapers](http://www.cvpapers.com/)
+* [SIGGRAPH Paper on the web](http://kesen.realtimerendering.com/)
