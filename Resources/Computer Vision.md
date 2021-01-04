@@ -28,5 +28,5 @@
 
 * [CVPapers](http://www.cvpapers.com/)
 * [SIGGRAPH Paper on the web](http://kesen.realtimerendering.com/)
-* [NIPS Proceedings]
-* [Computer Vision Foundation open access]
+* [NIPS Proceedings](https://proceedings.neurips.cc//)
+* [Computer Vision Foundation open access](https://openaccess.thecvf.com/menu)
