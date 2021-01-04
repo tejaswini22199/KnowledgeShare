@@ -21,3 +21,5 @@
 * [Convolutional Neural Networks for Visual Recognition]
 * [Computer Vision - Rob Fergus (NYU)]
 * [Computer Vision - Derek Hoiem (UIUC)]
+* [Computer Vision: Foundations and Applications]
+* [High-Level Vision: Behaviors, Neurons and Computational Models]
