@@ -17,3 +17,5 @@
 * [Visual Object and Activity Recognition]
 * [Computer Vision]
 * [Visual Recognition Spring 2016, Fall 2016 - Kristen Grauman (UT Austin)]
+* [Language and Vision]
+* [Convolutional Neural Networks for Visual Recognition]
