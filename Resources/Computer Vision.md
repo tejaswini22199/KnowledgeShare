@@ -21,5 +21,5 @@
 * [Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/)
 * [Computer Vision - Rob Fergus (NYU)](https://cs.nyu.edu/~fergus/teaching/vision/index.html)
 * [Computer Vision - Derek Hoiem (UIUC)](https://courses.engr.illinois.edu/cs543/sp2015/)
-* [Computer Vision: Foundations and Applications]
-* [High-Level Vision: Behaviors, Neurons and Computational Models]
+* [Computer Vision: Foundations and Applications](http://vision.stanford.edu/teaching/cs131_fall1415/index.html)
+* [High-Level Vision: Behaviors, Neurons and Computational Models](http://vision.stanford.edu/teaching/cs431_spring1314/)
