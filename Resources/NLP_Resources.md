@@ -14,3 +14,4 @@
 * [Deep Learning for Natural Language Processing (cs224-n)](https://web.stanford.edu/class/cs224n/)
 * [Neural Networks for NLP](http://phontron.com/class/nn4nlp2017/)
 * [Deep NLP Course](https://github.com/yandexdataschool/nlp_course)
+* [fast.ai Code-First Intro to Natural Language Processing](https://www.fast.ai/2019/07/08/fastai-nlp/)
