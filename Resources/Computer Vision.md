@@ -25,3 +25,6 @@
 * [High-Level Vision: Behaviors, Neurons and Computational Models](http://vision.stanford.edu/teaching/cs431_spring1314/)
 
 #### Papers
+
+* [CVPapers]
+* [SIGGRAPH Paper on the web]
