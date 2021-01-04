@@ -6,3 +6,4 @@
 * [Computer Vision: Theory and Application]
 * [Computer Vision: A Modern Approach (2nd edition)]
 * [Multiple View Geometry in Computer Vision]
+* [Computer Vision ]
