@@ -10,3 +10,5 @@
 * [Learning OpenCV: Computer Vision with the OpenCV Library](https://www.amazon.com/Learning-OpenCV-Computer-Vision-Library/dp/0596516134)
 * [Learning OpenCV: Computer Vision with the OpenCV Library](https://www.pyimagesearch.com/practical-python-opencv/)
 * [OpenCV Essentials](https://www.amazon.com/OpenCV-Essentials-Oscar-Deniz-Suarez/dp/1783984244/ref=sr_1_1?s=books&ie=UTF8&qid=1424594237&sr=1-1&keywords=opencv+essentials#)
+
+#### Courses
