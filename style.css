@@ -1,54 +1,4 @@
-html{
-  background-image: url('background.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-}
-body{
-  margin: 0 5vw 0 5vw;
-  padding:2% 3% 12% 3%;
-  background: white;
-  border-left: 1.5vw solid #007bff;
-  border-right:  1.5vw solid #007bff;
-}
-.btn{
-  margin-top:10px;
-  color: white;
-  display: block;
-  margin:15px auto;
-}
-.btn:hover{
-  background: #393e46;
-  color: white;
-}
-.btn:focus{
-  background: #8f04ec;
-  color: white;
-}
-.form-group{
-  position:relative;
-  overflow: hidden;
-}
-.form-group input{
-  padding: 25px 0 5px 0;
-  height:100%;
-  width: 100%;
-  border : none;
-}
-.form-control:focus{
-  border: none;
-  box-shadow: none;
-}
-.form-group label{
-  position: absolute;
-  padding:0 0;
-  bottom:0;
-  left:0;
-  margin-bottom: 0;
-  width: 100%;
-  height:100%;
-  pointer-events: none;
-  border-bottom: 1px solid black;
+
 
 }
 .form-group label::after{
@@ -214,3 +164,5 @@ body{
         transform: scale(1);
     }
 }
+
+

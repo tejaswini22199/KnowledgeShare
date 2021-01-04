@@ -13,18 +13,14 @@
 ### KHARAGPUR WINTER OF CODE (KWOC'20)
 <div >
 <img src="https://kwoc.kossiitkgp.org/static/media/circle.33e6ce0d.svg" alt="kwoc20" height="300" width="300"/>
-  </div>
+</div>
  
 ### Languages used
 HTML
 JS
 CSS
 ### 
-![Screenshot (685)](https://user-images.githubusercontent.com/63748249/101676584-5cf9d080-3a81-11eb-9218-6128fe981037.png)
-<br></br>
-<br></br>
-![Screenshot (688)](https://user-images.githubusercontent.com/63748249/101676982-f628e700-3a81-11eb-9726-e1c191fabd25.png)
-
+![display](landing_page.png)
 
 #### This is a beginner friendly project
 
@@ -72,10 +68,15 @@ CSS
 > git pull upstream
 
  <strong> Do Star this Repository :star2:</strong>
- 
- Thank you to everyone who contributed ✨💥
- <a href="https://github.com/tejaswini22199/KnowledgeShare/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=tejaswini22199/KnowledgeShare" />
-</a>
+ </br>
+   ![Dark Mode](https://github.com/Navpreet1234/KnowledgeShare/blob/patch-1/Screenshot%20(79).png)
+   <br/>
+  ![Dark Mode](https://github.com/Navpreet1234/KnowledgeShare/blob/patch-1/Screenshot%20(80).png)
+  </br>
+ ![Dark Mode Off](https://github.com/Navpreet1234/KnowledgeShare/blob/patch-1/Screenshot%20(81).png)
+ </br>
+  ![Dark Mode Off](https://github.com/Navpreet1234/KnowledgeShare/blob/patch-1/Screenshot%20(85).png)
+ </br>
+  <b>Display Forks, Contributors and Stars.</b>
+ ![Dark Mode Off](https://github.com/Navpreet1234/KnowledgeShare/blob/patch-1/Screenshot%20(83).png)
 
-Made with [contributors-img](https://contrib.rocks).
