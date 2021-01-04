@@ -13,12 +13,12 @@
 
 #### Courses
 
-* [Computer Vision 1 Carsten Rother (TU Dresden](https://www.cvlab-dresden.de/)
+* [Computer Vision 1 Carsten Rother (TU Dresden)](https://www.cvlab-dresden.de/)
 * [Visual Object and Activity Recognition](https://sites.google.com/site/ucbcs29443/)
 * [Computer Vision](https://courses.cs.washington.edu/courses/cse455/12wi/)
 * [Visual Recognition Spring 2016- Kristen Grauman (UT Austin)](http://vision.cs.utexas.edu/381V-spring2016/)
-* [Language and Vision]
-* [Convolutional Neural Networks for Visual Recognition]
+* [Computer Vision 2](https://www.cvlab-dresden.de/)
+* [Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/)
 * [Computer Vision - Rob Fergus (NYU)]
 * [Computer Vision - Derek Hoiem (UIUC)]
 * [Computer Vision: Foundations and Applications]
