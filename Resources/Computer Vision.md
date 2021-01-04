@@ -19,7 +19,7 @@
 * [Visual Recognition Spring 2016- Kristen Grauman (UT Austin)](http://vision.cs.utexas.edu/381V-spring2016/)
 * [Computer Vision 2](https://www.cvlab-dresden.de/)
 * [Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/)
-* [Computer Vision - Rob Fergus (NYU)]
-* [Computer Vision - Derek Hoiem (UIUC)]
+* [Computer Vision - Rob Fergus (NYU)](https://cs.nyu.edu/~fergus/teaching/vision/index.html)
+* [Computer Vision - Derek Hoiem (UIUC)](https://courses.engr.illinois.edu/cs543/sp2015/)
 * [Computer Vision: Foundations and Applications]
 * [High-Level Vision: Behaviors, Neurons and Computational Models]
