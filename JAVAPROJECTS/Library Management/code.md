@@ -1,4 +1,4 @@
-The software project for Public Library Management contains various forms along with programming codes. Forms (JFrames) and their event coding are given below.
+The software project for Public Library Management contains various forms along with programming codes. Forms (JFrames) and their event coding are given below:
 
 ## Frame:  MainUI.java
 ![main](https://user-images.githubusercontent.com/59510531/103482730-87347900-4e08-11eb-9907-27b401e56495.png)
