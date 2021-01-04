@@ -1,5 +1,5 @@
 
-The software project for Public Quiz Management contains various forms along with programming codes. Forms (JFrames) and their event coding are given below.
+The software project for Public Quiz Management contains various forms along with programming codes. Forms (JFrames) and their event coding are given below:
 
 # Frame:  LogIn.java
 ![login java](https://user-images.githubusercontent.com/59510531/103502379-0e203a80-4e77-11eb-8f83-116ceccfeb2b.png)
