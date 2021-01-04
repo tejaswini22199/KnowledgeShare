@@ -33,7 +33,7 @@
 * [Annotated Computer Vision Bibliography](https://sites.usc.edu/iris-cvlab/)
 * [Calendar of Computer Image Analysis, Computer Vision Conferences](https://sites.usc.edu/iris-cvlab/)
 
-#### Beginner Projects
+#### Projects
 
-* 
+* [Color Detection]
 
