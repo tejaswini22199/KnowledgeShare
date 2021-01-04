@@ -7,3 +7,5 @@
 * [Computer Vision: A Modern Approach (2nd edition)](https://www.amazon.com/Computer-Vision-Modern-Approach-2nd/dp/013608592X/ref=dp_ob_title_bk)
 * [Multiple View Geometry in Computer Vision](https://www.robots.ox.ac.uk/~vgg/hzbook/)
 * [Computer Vision ](https://www.amazon.com/Computer-Vision-Linda-G-Shapiro/dp/0130307963)
+* [Learning OpenCV: Computer Vision with the OpenCV Library]
+* [Learning OpenCV: Computer Vision with the OpenCV Library]
