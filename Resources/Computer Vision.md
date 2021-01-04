@@ -36,5 +36,5 @@
 #### Projects
 
 * [Color Detection](https://pysource.com/2019/02/15/detecting-colors-hsv-color-space-opencv-with-python/)
-* [Optical Character Recognition (OCR)]
+* [Optical Character Recognition (OCR)](https://towardsdatascience.com/getting-started-with-optical-character-recognition-using-python-e4a9851ddfab)
 
