@@ -17,3 +17,5 @@
 * [fast.ai Code-First Intro to Natural Language Processing](https://www.fast.ai/2019/07/08/fastai-nlp/)
 
 #### Projects
+
+* [Customer support bot](https://medium.com/@calebkaiser/how-to-actually-use-ml-in-production-reading-comprehension-1597095a54b2)
