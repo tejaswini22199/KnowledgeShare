@@ -12,3 +12,6 @@
 * [OpenCV Essentials](https://www.amazon.com/OpenCV-Essentials-Oscar-Deniz-Suarez/dp/1783984244/ref=sr_1_1?s=books&ie=UTF8&qid=1424594237&sr=1-1&keywords=opencv+essentials#)
 
 #### Courses
+
+* [EENG 512 / CSCI 512 - Computer Vision]
+* [Visual Object and Activity Recognition]
