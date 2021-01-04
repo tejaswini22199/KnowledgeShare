@@ -12,3 +12,4 @@
 
 * [Deep Natural Language Processing - Lectures series from Oxford](https://github.com/oxford-cs-deepnlp-2017/lectures)
 * [Deep Learning for Natural Language Processing (cs224-n)](https://web.stanford.edu/class/cs224n/)
+* [Neural Networks for NLP](http://phontron.com/class/nn4nlp2017/)
