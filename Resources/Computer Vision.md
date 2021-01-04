@@ -15,8 +15,8 @@
 
 * [Computer Vision 1 Carsten Rother (TU Dresden](https://www.cvlab-dresden.de/)
 * [Visual Object and Activity Recognition](https://sites.google.com/site/ucbcs29443/)
-* [Computer Vision]
-* [Visual Recognition Spring 2016, Fall 2016 - Kristen Grauman (UT Austin)]
+* [Computer Vision](https://courses.cs.washington.edu/courses/cse455/12wi/)
+* [Visual Recognition Spring 2016- Kristen Grauman (UT Austin)](http://vision.cs.utexas.edu/381V-spring2016/)
 * [Language and Vision]
 * [Convolutional Neural Networks for Visual Recognition]
 * [Computer Vision - Rob Fergus (NYU)]
