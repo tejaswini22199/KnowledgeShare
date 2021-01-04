@@ -15,3 +15,5 @@
 
 * [EENG 512 / CSCI 512 - Computer Vision]
 * [Visual Object and Activity Recognition]
+* [Computer Vision]
+* [Visual Recognition Spring 2016, Fall 2016 - Kristen Grauman (UT Austin)]
