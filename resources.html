@@ -29,6 +29,16 @@
       
 <script>
   document.querySelector('#btnChangeBg').addEventListener('click', () => {
+    var x = document.getElementById("resource-list").rows.length;
+
+if (x == 0) {
+   // empty
+
+
+      $('#btnChangeBg').attr('disabled','disabled');
+
+    }
+else{
     Confirm.open({
       title: 'Clear List',
       message: 'Are you sure you want to delete?',
@@ -37,6 +47,8 @@
          update();
       }
     })
+  
+}
   });
 </script>
       <script src="book.js"></script>
