@@ -19,3 +19,4 @@
 #### Projects
 
 * [Customer support bot](https://medium.com/@calebkaiser/how-to-actually-use-ml-in-production-reading-comprehension-1597095a54b2)
+* [Text Generator](https://github.com/shivsondhi/Text-Generator)
