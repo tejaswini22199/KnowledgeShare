@@ -58,6 +58,7 @@
 
 * [Machine Learning](https://github.com/search?o=desc&q=topic%3Amachine-learning+&s=stars&type=Repositories&utf8=%E2%9C%93)
 * [Fast AI](https://github.com/fastai/fastai)
+* [ML From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 
 #### Podcasts
 
