@@ -49,18 +49,44 @@ class UI
         books.forEach(book=>UI.addBooktoList(book));
     }
     static addBooktoList(book)
-    {
-       const list=document.querySelector('#resource-list');
+    { const list=document.querySelector('#resource-list');
+       const totalRowCount = list.rows.length;
+       const i=totalRowCount;
        const row=document.createElement('tr');
+       row.setAttribute ("id",i);
+
        row.innerHTML=
            `
             <td>${book.title}</td>
             <td>${book.author}</td>
             <td>${book.resource}</td>
-			<td>${book.date}</td>
+            <td>${book.date}</td>
+            <td><button style="padding: 0.4em 0.8em;
+    border: 2px solid blue;
+    border-radius: 5px;
+    background:  #5fa8d3;
+    color: white;
+    font-weight: 3px;
+    font-size: 1em;
+    font-family: 'Noto Sans', sans-serif;
+    margin-left: 0.6em;
+    cursor: pointer;
+    outline: none;" onclick="removeRow(${i})">Remove</button></td>
+                
+
+            
            `;
-       list.appendChild(row);
-    }
+             
+      
+     
+list.appendChild(row); 
+        
+  }        
+
+    // function to delete a row.
+   
+       
+
     static clearform()
     {
         document.querySelector('#title').value='';
@@ -79,6 +105,27 @@ class UI
         setTimeout(() => document.querySelector('.alert').remove(), 2000);
     } 
 }
+ function removeRow(oButton) {
+    
+        var empTab = document.getElementById('resource-list');
+        var emptabb =document.getElementById(oButton);
+          var items=JSON.parse(localStorage.getItem('books'));
+          if (items.length==1){
+             emptabb.innerHTML=" ";
+             localStorage.clear();
+          }
+          for (var i =0; i< items.length; i++) {
+    var item = items[i];
+     if (i == oButton) {
+        emptabb.innerHTML=" ";
+       items.splice(i);
+
+}
+
+}
+localStorage.setItem('books',JSON.stringify(items));
+        
+    }
 document.addEventListener('DOMContentLoaded',UI.displayBooks());
 document.querySelector('#book-form').addEventListener('submit', (e)=>
 {
@@ -99,17 +146,20 @@ document.querySelector('#book-form').addEventListener('submit', (e)=>
     }
     
 });
+
 document.querySelector()
 
 // for clearing the list
 function update() {
-    if (localStorage.getItem('itemJson') === null) {
+    if (localStorage.getItem('books') === null) {
         itemJsonArray = [];
-        localStorage.setItem('itemJson', JSON.stringify(itemJsonArray));
+        console.log("error");
     } else {
-        itemJsonArrayStr = localStorage.getItem('itemJson');
+
+        itemJsonArrayStr = localStorage.getItem('books');
         itemJsonArray = JSON.parse(itemJsonArrayStr);
     }
+    console.log(itemJsonArray);
     let tableBody = document.getElementById('resource-list');
     let str = "";
     itemJsonArray.forEach((element, index) => {
@@ -124,11 +174,6 @@ function update() {
     tableBody.innerHTML = str;
 }
 
-function clearlist() {
-    var ans=prompt("Do you really want to clear all items?, Press y for Yes else press any key");
-    console.log("clearing the storage");
-    if(ans==='y'){
-    localStorage.clear();
-    update();
-    }
-}
+
+
+   
